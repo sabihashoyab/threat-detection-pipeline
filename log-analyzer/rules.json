@@ -1,0 +1,4 @@
+{
+  "failed_login_threshold": 3,
+  "blocklisted_countries": ["RU", "CN", "KP"]
+}
