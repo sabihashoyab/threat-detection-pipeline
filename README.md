@@ -55,9 +55,6 @@ Optional data science analysis using pandas and matplotlib.
 - Map of IP geolocations  
 - Anomaly spikes in login activity
 
-![Login Attempts](screenshots/login_histogram.png)  
-![IP Heatmap](screenshots/ip_map.png)
-
 ---
 
 ## How Detection Works
@@ -102,18 +99,5 @@ threat-log-pipeline/
 - argparse for CLI parsing
 - requests for external GeoIP lookups
 - Logs: Linux `/var/log/auth.log`, Apache access logs
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Credits
-
-IP enrichment via ipinfo.io  
-Inspiration from common SIEM playbooks and analyst workflows.
 
 ---
