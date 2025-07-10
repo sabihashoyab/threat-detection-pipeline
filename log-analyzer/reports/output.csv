@@ -1,0 +1,6 @@
+timestamp,ip,result,city,region,country,org,failed_logins,suspicious
+Jul  6 13:45:01,192.0.2.10,Failed,,,,,3,True
+Jul  6 13:45:03,192.0.2.10,Failed,,,,,3,True
+Jul  6 13:45:07,192.0.2.10,Failed,,,,,3,True
+Jul  6 13:45:15,198.51.100.25,Accepted,,,,,0,False
+Jul  6 13:45:22,203.0.113.55,Failed,,,,,1,False
